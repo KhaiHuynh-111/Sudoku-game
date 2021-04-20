@@ -2,7 +2,9 @@
 
 This is a classic game with some basic rules that almost everyone know it.
 
-With backtracking, solve this 9x9 board is a basic challenge.
+In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contains all of the digits from 1 to 9.
+
+With backtracking, solve this 9x9 board in coding is a basic challenge.
 I'll try solving it in an unique way - Genetic Algorithm.
 
 ## Genetic Algorithm
